@@ -1,0 +1,21 @@
+* {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.circle-btn {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.circle-btn:hover {
+    background-color: #0056b3;
+}
